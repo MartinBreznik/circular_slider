@@ -7,7 +7,7 @@ function setAttributes(obj, props) {
   }
 }
 
-var slide = function (options) {
+var slide = function (options) { 
   this.svgDoc = 'http://www.w3.org/2000/svg';
   this.mouseDown = false;
   this.lineWidth = 12;
